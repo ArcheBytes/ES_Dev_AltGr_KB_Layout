@@ -18,6 +18,9 @@ This layout keeps the standard US behavior (no dead keys) and adds Spanish chara
   - `AltGr + u` → ú
   - `AltGr + n` → ñ
   - `AltGr + Shift` → uppercase variants
+  - Diéresis support (ü / Ü) using a dedicated combination:
+  - `Ctrl + Alt + ' `then `u` → ü
+  - `Ctrl + Alt + ' `then `Shift + u` → Ü
 
 ## Why this layout
 
